@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+****# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
@@ -10,12 +10,15 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+- [Contents](#contents)
+- [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+- [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
 - [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
+- [CLI Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
 - [Meetups and Events](#meetups-and-events)
+- [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -99,6 +102,8 @@
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [simC](https://github.com/cimplec/sim-c)
 - [SpooderManEXE](https://github.com/SpooderManEXE/Hacktoberfest2020-Expert)
+- [Brain.js](https://github.com/Leandrigues/awesome-hacktoberfest-2020)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 ## Guides and Resources
 
